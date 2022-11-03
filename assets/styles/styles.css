@@ -101,13 +101,13 @@ body {
   padding: 0 110px;
 }
 
-#rsvp button:hover {
+button:hover {
   background-color: #5a5a5a;
 }
 
-#rsvp button:hover {
+button {
   text-align: center;
-  background-color: rgb(190, 12, 12);
+  background-color: #ff0000;
   color: #fff;
   border: none;
   border-radius: 5px;
