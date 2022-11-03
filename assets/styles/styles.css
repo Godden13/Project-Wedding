@@ -101,23 +101,23 @@ body {
   padding: 0 110px;
 }
 
-button:hover {
-  background-color: #5a5a5a;
-}
-
 button {
   text-align: center;
-  background-color: #ff0000;
+  background-color: #f00;
   color: #fff;
   border: none;
   border-radius: 5px;
   padding: 20px 65px;
   font-size: 20px;
 }
+button:hover {
+  background-color: #5a5a5a;
+}
+
 
 button #details {
   text-align: center;
-  background-color: rgb(0, 0, 0);
+  background-color: #000;
   color: #fff;
   border: none;
   border-radius: 5px;
