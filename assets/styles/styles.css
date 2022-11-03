@@ -110,10 +110,10 @@ button {
   padding: 20px 65px;
   font-size: 20px;
 }
+
 button:hover {
   background-color: #5a5a5a;
 }
-
 
 button #details {
   text-align: center;
