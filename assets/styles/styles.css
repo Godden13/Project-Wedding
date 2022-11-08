@@ -11,7 +11,9 @@ body {
   padding: none;
 }
 
-body,h1,h2{font-family: "Raleway", sans-serif}
+body, h1, h2 {
+  font-family: Raleway, sans-serif;
+}
 
 #home h1 {
   font-size: 50px;
@@ -109,10 +111,6 @@ body,h1,h2{font-family: "Raleway", sans-serif}
   padding: 0 110px;
 }
 
-element.style {
-  width: 25%;
-}
-
 #rsvp {
   text-align: center;
   background-color: #f26321;
@@ -152,7 +150,6 @@ img {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-around;
-    align-items: center;
   }
 
   .page {
