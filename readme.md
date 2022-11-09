@@ -1,4 +1,4 @@
-#Weddng Invite
+<h1>Weddng-Invite</h1>
 This is the frontend view of the site. to add images from the project folder is assets/images/[name of your image]
 To add the styles as well is assets/styles/styles.CSS
 This is a project to build the frontend view of a wedding invitation platform
